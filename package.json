@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "start": "node index.js", // Script para iniciar tu aplicación
+    "test": "echo \"Error: no test specified\" && exit 1" // Script para ejecutar pruebas (puede ser modificado según sea necesario)
   },
   "author": "",
   "license": "ISC",
